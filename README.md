@@ -1,4 +1,4 @@
-# demo-app-pro
+# Planchery
 Planchery is based on the single platform..
 
 # Login Screen
